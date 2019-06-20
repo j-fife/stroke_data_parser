@@ -1,0 +1,70 @@
+How are we splitting epochs and batches again?
+
+strongly depends on the model - time slices of minutes, batches might be overlapping  
+
+Why a triangular GAN ? 
+
+Bias in taking multiple samples on the same day ? 
+
+According to funding proposal: 
+    Quantitative measurements of non-paretic limb activity can be used to identify and categorize
+    delirium phenotypes in stroke patients with a high degree of accuracy 
+        Are we just looking at non-paretic limbs or comparing them to paretic limbs?
+        
+
+given age, severity, .... , what's my prior distribution for delerium 
+
+Labels -- Sign of delerium 
+Inputs -- CSV files (organized by opposite side of the stroke)
+    do we want to only examine the affected side
+
+Could you explain the differences in what we expect to see in paretic vs non-paretic? yes potentially 
+
+Should more importance be placed on patients that have YES delerium one day and NO others
+
+YES and NO don't seem to be random, follow blocks 
+
+GAN - may want to generate the condition based on the other 
+
+Lab meetings fridays at 2pm, 233 richmond 
+
+a bunch of 
+
+Query with query terms, 
+
+tf*idf, bucketing, neural networks, ranking documenting, learning potential bucket positions in the distribution
+datasets all out there, deep learning rankers
+
+baseline papers shared with me from Carsten, somewhere down the line discretization
+
+
+-------------------------------------------------------------------------------------------------------------------
+Lab meeting
+2/22/19
+
+Mike - neuro 
+
+diagnosis made in early afternoon, mike still believes days are the best label system
+
+could we figure out when external stimulus happens, possibly when two limbs are similar?
+
+______________________________________________________________________________________________
+
+3/12/2019
+
+try changing the labels so they are all the same, don't split them into distinct classes
+check what reduce mean does 
+potentially focuns on within patient differences
+
+
+
+From two consecutive runs without changing anything :
+---------------------------------
+
+add gausian noise, randomize the samples
+
+add noise according to each patient, or add noise according to the overall distribution of,
+the combined patients, or add noise according to the distributions of differntly labeled 
+days.  
+
+9:45 - 10:15 Friday morning -- CIT second floor Meeting with Carsten

@@ -1,0 +1,53 @@
+Random Forest, process_id 3, 80% training split
+
+zero_prediction_zero_label  6799 0.3933013246948574
+one_prediction_one_label  7314 0.4230924972522705
+zero_prediction_one_label  1559 0.09018337479030486
+one_prediction_zero_label  1615 0.09342280326256724
+correct  0.846184994504541
+
+
+Random Forest, process_id 1, 80% training split
+
+zero_prediction_zero_label  7041 0.4073002834499913
+one_prediction_one_label  6984 0.40400300804072425
+zero_prediction_one_label  1912 0.11060334355295887
+one_prediction_zero_label  1350 0.07809336495632556
+correct  0.8080060160814485
+
+
+patient 1 testing when not included. process id 4
+
+zero_prediction_zero_label  2825 0.27113926480468376
+one_prediction_one_label  0 0.0
+zero_prediction_one_label  0 0.0
+one_prediction_zero_label  7594 0.7288607351953162
+correct  0.27
+
+patient 3
+
+zero_prediction_zero_label  7819 0.21514459455741133
+one_prediction_one_label  6791 0.1868585422227114
+zero_prediction_one_label  19472 0.5357840574526044
+one_prediction_zero_label  2261 0.06221280576727293
+correct  0.3737170844454228
+
+
+
+random forrest process id 4, 80% training split  
+zero_prediction_zero_label  8275 0.4786834037137734
+one_prediction_one_label  8553 0.49476485220107597
+zero_prediction_one_label  268 0.015502979117255742
+one_prediction_zero_label  191 0.01104876496789495
+correct  0.9895297044021519
+
+
+including all data from a day potentially,  among correct predictions 
+look at the the graph of predictions by time. Conidence intervalas could tell more about prediction time. 
+Also impreove teh window size component, potentially the 27% is the part of the 
+
+time window !!!
+
+precision and recall 
+f1 = (p*r)/2(p*r)
+

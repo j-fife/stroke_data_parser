@@ -1,0 +1,31 @@
+results:
+
+just with read6 paretic, read6nonparetic, read6nonparetic - read6paretic 
+
+zero_prediction_zero_label  498
+one_prediction_one_label  782
+zero_prediction_one_label  249
+one_prediction_zero_label  471
+
+correct: 64%
+
+zero_prediction_zero_label  255
+one_prediction_one_label  397
+zero_prediction_one_label  115
+one_prediction_zero_label  233
+
+correct: 65%
+
+
+For [paretic_pos1, non_paretic_pos1, paretic_pos1 - non_paretic_pos1, non_paretic_pos6, paretic_pos6, non_paretic_pos6 - paretic_pos6]
+
+zero_prediction_zero_label  271
+one_prediction_one_label  320
+zero_prediction_one_label  148
+one_prediction_zero_label  261
+
+correct : 59% 
+
+
+pos1 is hpim
+pos6 is temp 

@@ -1,0 +1,51 @@
+---------PATIENT 3---------
+Measurement 1
+Affected: sd  69.59713356545315  mean  51.76448412698413  Unaffected: sd  54.56575155288695  mean  25.316985873662567
+Measurement 2
+Affected: sd  19840.51497199994  mean  9665.479761904762  Unaffected: sd  18622.418772016805  mean  5920.075695845867
+Measurement 3
+Affected: sd  1102.2508146794057  mean  536.971096845635  Unaffected: sd  1034.5788265660576  mean  328.89309441712294
+Measurement 4
+Affected: sd  0.0  mean  0.0  Unaffected: sd  0.0  mean  0.0
+Measurement 5
+Affected: sd  193.31120360939428  mean  -68.65551779051589  Unaffected: sd  172.39048178227733  mean  -32.73339232189392
+Measurement 6
+Affected: sd  5.426331905646117  mean  23.875728867063486  Unaffected: sd  4.9222410009645365  mean  22.358460106613865
+Measurement 7
+Affected: sd  0.0  mean  0.0  Unaffected: sd  0.0  mean  0.0
+
+---------PATIENT 6---------
+Measurement 1
+Affected: sd  75.6788074725499  mean  79.66831683168317  Unaffected: sd  75.42191080600935  mean  72.96666666666667
+Measurement 2
+Affected: sd  16041.773530179376  mean  10816.552186468647  Unaffected: sd  22048.41256686912  mean  15524.319675925926
+Measurement 3
+Affected: sd  891.2096397812707  mean  600.9195640584571  Unaffected: sd  1224.9118123794408  mean  862.4622043888888
+Measurement 4
+Affected: sd  0.014360643421905489  mean  0.00020627062706270627  Unaffected: sd  0.0  mean  0.0
+Measurement 5
+Affected: sd  171.70869728467127  mean  21.00048358304455  Unaffected: sd  140.1645986269825  mean  2.3997047174999957
+Measurement 6
+Affected: sd  3.0474913298238007  mean  -13.850653518976896  Unaffected: sd  2.755129953291785  mean  -13.72336374305555
+Measurement 7
+Affected: sd  0.0  mean  0.0  Unaffected: sd  0.0  mean  0.0
+
+
+---------All Patients---------
+Measurement 1
+Affected: sd  66.13202097853267  mean  50.4078031544667  Unaffected: sd  62.45557252945531  mean  32.769487063469214
+Measurement 2
+Affected: sd  19085.865373982146  mean  9009.806879376769  Unaffected: sd  22368.643081890925  mean  9366.569083953766
+Measurement 3
+Affected: sd  1060.3258509296081  mean  500.54482578311234  Unaffected: sd  1242.7023952427892  mean  520.3649480406895
+Measurement 4
+Affected: sd  0.00799071484053089  mean  6.38556012004853e-05  Unaffected: sd  0.012826839241243398  mean  -8.226728641355764e-05
+Measurement 5
+Affected: sd  198.17060148600405  mean  -5.858287533800898  Unaffected: sd  171.11356740067674  mean  -28.142795064643575
+Measurement 6
+Affected: sd  16.004158486008627  mean  5.968857949170941  Unaffected: sd  16.28809708485951  mean  10.909734586195547
+Measurement 7
+Affected: sd  0.0  mean  0.0  Unaffected: sd  0.0  mean  0.0
+
+
+measure against thr average of the entire population. 
